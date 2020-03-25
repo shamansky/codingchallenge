@@ -1,3 +1,12 @@
+I have used create-react-app to create the files and Jest to test the Javascript function.
+The file that has the Javascript function is called challenge.js and the tests are to be found in challenge.test.js
+
+Please follow these steps:  
+
+1.Type yarn install in the terminal to install dependencies.
+
+2.Type yarn test to run the tests that Ive created for the Javascript function.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

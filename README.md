@@ -20,6 +20,6 @@ Where the size of the original array cannot be divided equally by N, the final p
  groupArrayElements([1, 2, 3, 4, 5], 3);
  // [ [ 1, 2 ], [ 3, 4 ], [ 5 ] ]
  
- What do you mean by "the final part" ? In the example provided we have 3 arrays and the final one has the length of 1. The whole array has a length of 3. The remainder of 5/3 = 2 so does it mean the length of the last array should be 2 or the whole array's length should be 2? I'm sorry but Im not sure what it was required of me but if you provided further info Im happy to add an If statement and keep working on it. 
+ What do you mean by "the final part" ? In the example provided we have 3 arrays and the final one has the length of 1. The whole array has a length of 3. The remainder of 5/3 = 2 so does it mean the length of the last array should be 2 or the whole array's length should be 2? I'm sorry but Im sorry but I feel like im missing something. If you provide further info Im happy to add an If statement and keep working on it. 
  
  Thank you for the opportunity!
